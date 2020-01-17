@@ -4,6 +4,13 @@
 
 Analyzer for JVM Clojure, tuned for consumption by an optional type checker.
 
+## DEPRECATION NOTICE
+
+This repository is DEPRECATED and development has been moved
+to the [core.typed](https://github.com/clojure/core.typed) monorepo.
+Please follow [these](https://github.com/clojure/core.typed/blob/master/UPGRADING.md#upgrading-from-07x-to-monorepo)
+to upgrade.
+
 ## Releases and Dependency Information
 
 Latest stable release is 0.7.1.
